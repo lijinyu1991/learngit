@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 Git first time update.
 Git second time update.
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
