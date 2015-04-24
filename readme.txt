@@ -7,5 +7,4 @@ Git first time update.
 Git second time update.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
-
-branch update first time.
+Branch update first time.
